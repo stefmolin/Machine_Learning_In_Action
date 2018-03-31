@@ -1,4 +1,4 @@
-# Machine Learning Studies
+# Machine Learning In Action
 This repo showcases use cases of Machine Learning on various data sets.
 
 ## Use Cases
